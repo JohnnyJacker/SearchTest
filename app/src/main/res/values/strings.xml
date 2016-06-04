@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GoFor</string>
+
+
+
+    <string name="empty_item_list">No Material Information Available</string>
+
+    <string name="title_activity_detail">Detail</string>
+    <string name="bushing">Bushing</string>
+    <string name="type">Type</string>
+    <string name="yes">Yes</string>
+    <string name="insulated">Insulated</string>
+    <string name="plastic">Plastic</string>
+    <string name="material">Material</string>
+    <string name="rigid_imc">RIGID/IMC</string>
+    <string name="application">Application</string>
+    <string name="_1_2">1/2</string>
+    <string name="trade_size">Trade Size</string>
+    <string name="arl_440">ARL 440</string>
+    <string name="manufacturer_part">Manufacturer Part#</string>
+    <string name="arlington_industries">Arlington Industries</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="_1899700440">1899700440</string>
+    <string name="upc">UPC</string>
+    <string name="add_to_list">ADD TO LIST</string>
+    <string name="_1_2_plastic_insulated_bushing">1/2 Plastic Insulated Bushing</string>
+    <string name="content_description">content_description</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
